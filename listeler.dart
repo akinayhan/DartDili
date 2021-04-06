@@ -23,5 +23,4 @@ void main(){
   print(sehirler.where((s)=>s.contains("a")));
 
   print(sehirler.first);
-
 }
